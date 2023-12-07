@@ -1,5 +1,14 @@
-### Hi there 👋
+## Hi👋
+## My name is Andrey! Welcome!
 
+## About me
+
+• I am a student, I am 33 years old, studying Java programming language :mortar_board:    
+• Studying at university (Specialty): Information Systems and Programming (Togliatti, State University of Service) :mortar_board:                   
+• I learn Java at [Job4j](https://job4j.ru/) :page_facing_up:            
+• Completed a course on [JavaRush](https://javarush.com/quests/QUEST_JAVA_SYNTAX) (Java Syntax Zero) :page_facing_up:        
+-
+### Lessons of:
 <!--
 **AnKondratev/AnKondratev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
