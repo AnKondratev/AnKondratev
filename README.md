@@ -47,7 +47,6 @@ _____________________
 <br>
 
 ![](https://komarev.com/ghpvc/?username=AnKondratev)   
-![Profile views](https://gpvc.arturio.dev/[AnKondratev])
 <!--
 **AnKondratev/AnKondratev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
