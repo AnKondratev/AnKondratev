@@ -7,7 +7,7 @@
 • Studying at university (Specialty): Information Systems and Programming (Togliatti, State University of Service) (Now) :mortar_board:                   
 • I learn Java at [Job4j](https://job4j.ru/) (Now) :coffee:          
 • Completed a course on [JavaRush](https://javarush.com/quests/QUEST_JAVA_SYNTAX) (Java Syntax Zero) (Then) :page_facing_up:  
-• My page in [HH](https://hh.ru/resume/c8629b40ff03ac579d0039ed1f725669374659?disableBrowserCache=true&customDomain=1)     
+• My page in [HH](https://hh.ru/resume/c8629b40ff03ac579d0039ed1f725669374659?disableBrowserCache=true&customDomain=1) (Resume for potential employer)     
 
 ________________
 
