@@ -8,7 +8,6 @@
 • I learn Java at [Job4j](https://job4j.ru/) :page_facing_up:            
 • Completed a course on [JavaRush](https://javarush.com/quests/QUEST_JAVA_SYNTAX) (Java Syntax Zero) :page_facing_up:        
 -
-### Lessons of:
 <!--
 **AnKondratev/AnKondratev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
