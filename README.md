@@ -16,11 +16,11 @@ ________________
 ✓ [Tracker and other..](https://github.com/AnKondratev/job4j_tracker)   
 ___
   
-<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" object-fit="cover" align="right" max-width=100% height=auto  margin-right=10px />
+<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" align="right" max-width=100% height=auto />
 <h3>Tools:</h3>
 
 <p> 
-<ul><nobr>
+<ul>
   <li>Maven</li>
   <li>jUnit</li>
   <li>Git</li>
@@ -30,7 +30,7 @@ ___
   <li>Collections Framework</li>
   <li>Lambda</li>
   <li>Stream API</li>
-</nobr></ul>
+</ul>
 
 ______________________
 <br>
