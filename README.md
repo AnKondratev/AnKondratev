@@ -20,18 +20,17 @@ ___
 <h3>Tools:</h3>
 
 <p> 
-✓ Maven <br>  
-✓ jUnit  <br>  
-✓ Git   <br>                           
-✓ IntelliJ Idea  <br>                            
-✓ Сheckstyle, JaCoCo  <br>  
-✓ Travic CI    <br>
-✓ Collections Framework <br>
-✓ Lambda <br>
-✓ Stream API <br>
-</p>
-<br>
-
+<ul>
+  <li>Maven</li>
+  <li>jUnit</li>
+  <li>Git</li>
+  <li>IntelliJ Idea</li>
+  <li>Сheckstyle, JaCoCo</li>
+  <li>Travic CI </li>
+  <li>Collections Framework</li>
+  <li>Lambda</li>
+  <li>Stream API</li>
+</ul>
 _____________________
 <br>
 <h3>my github stats :</h3> 
