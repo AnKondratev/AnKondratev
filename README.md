@@ -20,7 +20,7 @@ ___
 <h3>Tools:</h3>
 
 <p> 
-<ul>
+<ul><nobr>
   <li>Maven</li>
   <li>jUnit</li>
   <li>Git</li>
@@ -30,8 +30,9 @@ ___
   <li>Collections Framework</li>
   <li>Lambda</li>
   <li>Stream API</li>
-</ul>
-_____________________
+</nobr></ul>
+
+______________________
 <br>
 <h3>my github stats :</h3> 
 <br>
