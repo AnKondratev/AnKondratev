@@ -3,17 +3,19 @@
 
 ### About me   
 
-• I am a student, I am 33 years old, studying Java programming language :mortar_board:    
-• Studying at university (Specialty): Information Systems and Programming (Togliatti, State University of Service) (Now) :mortar_board:                   
-• I learn Java at [Job4j](https://job4j.ru/) (Now) :coffee:          
-• Completed a course on [JavaRush](https://javarush.com/quests/QUEST_JAVA_SYNTAX) (Java Syntax Zero) (Then) :page_facing_up:  
-• My page in [HH](https://hh.ru/resume/c8629b40ff03ac579d0039ed1f725669374659?disableBrowserCache=true&customDomain=1) (CV for potential employer)     
+• I am a student, I am 33 years old, studying Java programming language. :mortar_board:    
+• Studying at university (Specialty): Information Systems and Programming (Togliatti, State University of Service). :mortar_board:       
+• Now studying a course on the topic of Java Spring framework. 
+• Completed a course Java at [Job4j](https://job4j.ru/) (Trainee). :coffee:          
+• Completed a course on [JavaRush](https://javarush.com/quests/QUEST_JAVA_SYNTAX) (Java Syntax Zero). :page_facing_up:  
+• My page in [HH](https://hh.ru/resume/c8629b40ff03ac579d0039ed1f725669374659?disableBrowserCache=true&customDomain=1) (CV for potential employer).    
 
 ________________
 
-### My works on the job4j course:  
+### My works on the courses:  
 ✓ [Elementary](https://github.com/AnKondratev/-job4j_elementary)   
-✓ [Tracker and other..](https://github.com/AnKondratev/job4j_tracker)   
+✓ [Tracker and other](https://github.com/AnKondratev/job4j_tracker)    
+✓ [Spring Framework](https://github.com/AnKondratev/spring-fw)
 ___
 
   
