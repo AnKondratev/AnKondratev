@@ -38,13 +38,12 @@ ___
 
 ______________________
 <h3> :bar_chart: Stats:</h3> 
-<br>
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnKondratev&theme=solarized_dark) 
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnKondratev&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnKondratev&theme=solarized_dark)
-
+____________________
 
 <h3>:chart_with_upwards_trend: Progression tasks in the Java course: </h3>   
 
