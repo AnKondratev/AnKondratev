@@ -41,13 +41,13 @@ ______________________
 <br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnKondratev&theme=solarized_dark) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnKondratev&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnKondratev&theme=solarized_dark)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnKondratev&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnKondratev&theme=solarized_dark)
 
 
-<h3>:chart_with_upwards_trend: Progression tasks in the Java course: </h3> 
+<h3>:chart_with_upwards_trend: Progression tasks in the Java course: </h3>   
+
 - [X] ***Level "Trainee"***
 - [ ] ***Level "Junior"***
 - [ ] ***Level "Middle"***
