@@ -41,10 +41,11 @@ ______________________
 <h3>my github stats :</h3> 
 <br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnKondratev&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnKondratev&theme=solarized_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnKondratev&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnKondratev&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnKondratev&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnKondratev&theme=solarized_dark)
 
 
 ### My progression tasks in the Java course:
