@@ -21,7 +21,7 @@ ___
   
 <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" align="right" max-width=100% height=auto />
 
-<h3>Tools:</h3>
+<h3>:wrench:Tools:</h3>
 
 <p> 
 <ul>
@@ -38,7 +38,7 @@ ___
 
 ______________________
 <br>
-<h3>my github stats :</h3> 
+<h3> :bar_chart: Stats:</h3> 
 <br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnKondratev&theme=solarized_dark) 
@@ -48,7 +48,7 @@ ______________________
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnKondratev&theme=solarized_dark)
 
 
-### My progression tasks in the Java course:
+<h3>:chart_with_upwards_trend: Progression tasks in the Java course: </h3> 
 - [X] ***Level "Trainee"***
 - [ ] ***Level "Junior"***
 - [ ] ***Level "Middle"***
