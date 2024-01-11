@@ -15,7 +15,7 @@ ________________
 ### My works on the courses:  
 ✓ [Elementary](https://github.com/AnKondratev/-job4j_elementary)   
 ✓ [Tracker and other](https://github.com/AnKondratev/job4j_tracker)    
-✓ [Spring Framework intro](https://github.com/AnKondratev/spring-fw)
+✓ [Spring Framework lessons 1-13](https://github.com/AnKondratev/spring-fw)
 ___
 
   
