@@ -19,7 +19,6 @@ ________________
 ___
 
   
-<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" align="right" max-width=100% height=auto />
 
 <h3>:wrench:Tools:</h3>
 
