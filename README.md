@@ -3,7 +3,7 @@
 
 ### About me   
 
-• I am a student, I am 33 years old, studying Java programming language. :mortar_board:    
+• I am a student, I am 34 years old, studying Java programming language. :mortar_board:    
 • Studying at university (Specialty): Information Systems and Programming (Togliatti, State University of Service). :mortar_board:       
 • Now studying a course on the topic of Java Spring framework. :mortar_board:       
 • Completed a course Java at [Job4j](https://job4j.ru/) (Trainee). :coffee:          
