@@ -9,6 +9,7 @@
 • Completed a course Java at [Job4j](https://job4j.ru/) (Trainee). :coffee:          
 • Completed a course on [JavaRush](https://javarush.com/quests/QUEST_JAVA_SYNTAX) (Java Syntax Zero). :page_facing_up:  
 • My page in [HH](https://hh.ru/resume/c8629b40ff03ac579d0039ed1f725669374659?disableBrowserCache=true&customDomain=1) (CV for potential employer).    
+• From 15.07.2024 - now - I'm doing an intensive at school 21 from sberbank.
 
 ________________
 
